@@ -3,7 +3,7 @@
 url: /
 title: mkp的日志
 subtitle: 不知道我这个东西可以给谁看
-theme: beach
+theme: cube
 enableCache: true
 highlight: true
 mathjax: false
