@@ -3,7 +3,7 @@
 url: /
 title: mkp的日志
 subtitle: 不知道我这个东西可以给谁看
-theme: simple
+theme: beach
 enableCache: true
 highlight: true
 mathjax: false
@@ -17,7 +17,7 @@ author:
     name: kapono
     email: ma_king@yeah.net
     github: tiaossup
-    weibo: KaKaKapono
+    weibo: KaKaKaKapono
     avatar:
 blog:
     recentSize: 5
